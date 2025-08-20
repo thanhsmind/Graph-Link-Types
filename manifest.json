@@ -1,6 +1,6 @@
 {
-	"id": "graph-link-types",
-	"name": "Graph Link Types",
+	"id": "graph-link-types-thanhsmind",
+	"name": "Graph Link Types custom by thanhsmind",
 	"version": "0.3.3",
 	"minAppVersion": "1.5.0",
 	"description": "Link types for graph view.",
